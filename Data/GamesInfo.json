@@ -1,0 +1,50 @@
+[
+    {
+        "img": "https://i.ibb.co/V32xGY3/gta4.jpg",
+        "name": "GTA IV",
+        "price": 36,
+        "rating": 4.5,
+        "description": "This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.",
+        "version": "23.10.2023",
+        "language": "English",
+        "category": "Action",
+        "file_name": "GTA_IV_2023",
+        "size": "30GB"
+    },
+    {
+        "img": "https://i.ibb.co/hYmtYH3/gta5.jpg",
+        "name": "GTA V",
+        "price": 55,
+        "rating": 5.0,
+        "description": "This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.",
+        "version": "23.10.2023",
+        "language": "English",
+        "category": "Action",
+        "file_name": "GTA_V_2023",
+        "size": "120GB"
+    },
+    {
+        "img": "https://i.ibb.co/V32xGY3/gta4.jpg",
+        "name": "GTA IV",
+        "price": 36,
+        "rating": 4.5,
+        "description": "This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.",
+        "version": "23.10.2023",
+        "language": "English",
+        "category": "Action",
+        "file_name": "GTA_IV_2023",
+        "size": "30GB"
+    },
+    {
+        "img": "https://i.ibb.co/hYmtYH3/gta5.jpg",
+        "name": "GTA V",
+        "price": 55,
+        "rating": 5.0,
+        "description": "This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.",
+        "version": "23.10.2023",
+        "language": "English",
+        "category": "Action",
+        "file_name": "GTA_V_2023",
+        "size": "120GB"
+    }
+]
